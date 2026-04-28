@@ -1,1 +1,3 @@
 # Portfolio-Builder
+A full-stack portfolio builder that enables users to create and customize personal developer portfolios with multiple templates, real-time preview, and shareable public links.
+🚧 Project on progress...
